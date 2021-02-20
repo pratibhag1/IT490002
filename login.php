@@ -34,7 +34,7 @@
 			"Enter password"/> <br>
 
 			<div>&nbsp;</div>
-			<input type="submit" value="Login" onClick="document.location.href='https://web.njit.edu/~ss3968/IT202/Polls/main.php'"/>	
+			<input type="submit" value="Login" onClick="document.location.href='https://web.njit.edu/~pg425/IT490002/login.php'"/>	
 	</p>
 	</div>
 		</form>
